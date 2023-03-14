@@ -6,7 +6,7 @@ export default function Nav({}: Props) {
       <>
           <div className='nav'>
               <div className='nav-logo'>
-                <a href="https://ombak123.org/account/register/akunprovip">
+                <a href="https://ombak123.net/account/register/akunprovip">
                     <amp-img
                         alt="logo"
                         fallback=""
@@ -17,14 +17,14 @@ export default function Nav({}: Props) {
                 </a>
               </div>
               <div className='nav-item'>
-                <a href="https://ombak123.org/account/register/akunprovip">
+                <a href="https://ombak123.net/account/register/akunprovip">
                     <div className='btn daftar'>
                         Daftar Slot
                     </div>
                 </a>
               </div>
               <div className='nav-item'>
-                <a href="https://ombak123.org/account/register/akunprovip">
+                <a href="https://ombak123.net/account/register/akunprovip">
                     <div className='btn login'>
                         Masuk
                     </div>
@@ -32,7 +32,7 @@ export default function Nav({}: Props) {
               </div>
           </div>
           <div className="header-root">
-            <a href="https://ombak123.org/account/register/akunprovip">
+            <a href="https://ombak123.net/account/register/akunprovip">
                 <div className='header'>
                     <div className='header-item'>
                         Kamboja Server Slot
